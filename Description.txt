@@ -1,0 +1,22 @@
+reexre@gmail.com
+------------------------------------------------------------------
+Muscles Driven 2D Ragdoll Physic Engine -  V 6.0
+------------------------------------------------------------------
+
+
+2D Physic Engine based on verlet physics. __________
+Main Elements are 3: Point, Link (2 Points), and Muscle (2 Links)__________
+The muscle is defined as two links (limbs) , the angle that should occur between them, and the muscle strength. __________
+You Can manually change Muscles Values with Scrollbars. __________
+Can interact with figure with the mouse. __________
+[ V 3 ] Added Gravity On/Off. Added Save/Load Pose. __________
+[ V 3.1 ] Added Muscles Speed Limiter (It Deny too Fast Muscles movement, so it's good for Stability), and Exit button __________
+[ V 3.2 ] Thickness of Lines bigger than 1 for better vision. Added Collision Response with Circle Shaped Obstacles. Added Obstacles Movement and Obstacle-Obstacle Collision.  __________
+[ V 3.3 ] Updated sub ChangeVelocities: Fixed Bug when Bounce on Motionless-Obstacles. Now Can interact with Obstacles too. __________
+[ V 4.0 ] I had a GREAT IDEA!!!: The Strength of Muscles in nature is not Constant. So I thought to apply a Decrement of Strength/energy due to the "Work" done by the Muscles. Nevertheless, this Lost of Strength/Energy is Recovered Costantly, as we do Breathing. This made the physics even more Realistic! . Added Custom Link Color, Thickness , Shape and DrawOrder. Smiling Face. (I Loose myself with VersionNumber) __________
+[ V 5.0 ] Added Joints!!! Can Dynamically Add/Remove Joints! __________
+[ V 5.1 ] Realistic Doll-Obstacles Collision Reaction. Break Points when to much stressed (Buggy).  Removed Muscles Speed Limiter. __________
+[ V 5.2 ] Doll Editor! to Customize your creatures. More Joints features. __________
+[ V 5.3 ] Manage Limbs Mass in Muscle movement, manage point Mass in Collision reaction. __________
+[ V 5.4 ] Little bug fixed in point Mass calculation. __________
+[ V 6.0 ] Fixed missing "Option explicits" and Removed Draw Flickering... __________
